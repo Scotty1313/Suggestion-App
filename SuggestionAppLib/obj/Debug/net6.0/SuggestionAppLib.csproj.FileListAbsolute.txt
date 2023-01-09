@@ -1,0 +1,12 @@
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\bin\Debug\net6.0\SuggestionAppLib.deps.json
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\bin\Debug\net6.0\SuggestionAppLib.dll
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\bin\Debug\net6.0\SuggestionAppLib.pdb
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\obj\Debug\net6.0\SuggestionAppLib.csproj.AssemblyReference.cache
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\obj\Debug\net6.0\SuggestionAppLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\obj\Debug\net6.0\SuggestionAppLib.AssemblyInfoInputs.cache
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\obj\Debug\net6.0\SuggestionAppLib.AssemblyInfo.cs
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\obj\Debug\net6.0\SuggestionAppLib.csproj.CoreCompileInputs.cache
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\obj\Debug\net6.0\SuggestionAppLib.dll
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\obj\Debug\net6.0\refint\SuggestionAppLib.dll
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\obj\Debug\net6.0\SuggestionAppLib.pdb
+C:\Users\Jonna\source\repos\SuggestionApp\SuggestionAppLib\obj\Debug\net6.0\ref\SuggestionAppLib.dll
